@@ -278,7 +278,7 @@ gulp.task('css', function () {
 Add [Grunt PostCSS] to your build tool:
 
 ```sh
-npm install precss --save-dev
+npm install grunt-postcss --save-dev
 ```
 
 Enable [PreCSS] within your Gruntfile:
